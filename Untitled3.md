@@ -1,3 +1,0 @@
-Final Project
-
-Project overview: This project will try to examine how income level evolves in the U.S. and how it corresponds with the income inequality since the 2000s. In this project, we will study if there exists a positive, negative, or no relationship between regional income inequality and economic growth by analyzing the data of household income, total population, and GDP. Since there are many studies already showing the impact of income inequality such as higher rates of health and social problems, we want to think more about the effect on the level of economic growth.
